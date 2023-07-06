@@ -1,0 +1,22 @@
+.logo-img {
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
+
+#header {
+   
+   background-color: black;
+    background-image: url('images/Web\ capture_20-6-2023_81327_.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 88vh;
+    width: 100%;
+    background-attachment: fixed;
+    
+    
+    
+}
+
